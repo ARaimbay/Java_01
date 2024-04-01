@@ -12,6 +12,12 @@ public class Person {
     static private Company company2 = new Company();
     private NewsAgency agency;
 
+    public void myTestMethod() {
+        var age = 21;
+        var name = "Jake";
+        var jerry = "Jerry";
+    }
+
     public static void main(String[] args) {
         System.out.println(company);
         System.out.println(company2);
