@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="local variables introduction">
-      <change afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="arrays added">
+      <change beforePath="$PROJECT_DIR$/src/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +97,22 @@
       <option name="project" value="LOCAL" />
       <updated>1712012752683</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arrays added">
+      <option name="closed" value="true" />
+      <created>1712100713688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712100713688</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new project business" />
     <MESSAGE value="added data types and variables" />
     <MESSAGE value="local variables introduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="local variables introduction" />
+    <MESSAGE value="arrays added" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays added" />
   </component>
 </project>
