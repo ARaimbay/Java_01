@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="arrays added">
+    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="array args added">
       <change beforePath="$PROJECT_DIR$/src/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712100713688</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="array args added">
+      <option name="closed" value="true" />
+      <created>1712101167338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712101167338</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +121,17 @@
     <MESSAGE value="added data types and variables" />
     <MESSAGE value="local variables introduction" />
     <MESSAGE value="arrays added" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrays added" />
+    <MESSAGE value="array args added" />
+    <option name="LAST_COMMIT_MESSAGE" value="array args added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayDemo.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
