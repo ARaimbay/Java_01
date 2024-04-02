@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="new project business">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/Person.java" afterDir="false" />
+    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="local variables introduction">
+      <change afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayDemo.executor": "Run",
     "Application.Person.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -43,7 +43,14 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayDemo">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
+      <module name="Business" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Person" />
       <module name="Business" />
@@ -53,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
@@ -74,11 +82,29 @@
       <option name="project" value="LOCAL" />
       <updated>1712010404391</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added data types and variables">
+      <option name="closed" value="true" />
+      <created>1712012092433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712012092433</updated>
+    </task>
+    <task id="LOCAL-00003" summary="local variables introduction">
+      <option name="closed" value="true" />
+      <created>1712012752683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712012752683</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new project business" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project business" />
+    <MESSAGE value="added data types and variables" />
+    <MESSAGE value="local variables introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="local variables introduction" />
   </component>
 </project>
