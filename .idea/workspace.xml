@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment=" person class modified">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="added different methods">
       <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712181297047</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" person class modified">
+      <option name="closed" value="true" />
+      <created>1712182083551</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712182083551</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added different methods">
+      <option name="closed" value="true" />
+      <created>1712182274451</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712182274451</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,7 +156,8 @@
     <MESSAGE value="array args added" />
     <MESSAGE value="array with integers" />
     <MESSAGE value=" person class modified" />
-    <option name="LAST_COMMIT_MESSAGE" value=" person class modified" />
+    <MESSAGE value="added different methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="added different methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

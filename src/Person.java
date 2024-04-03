@@ -23,6 +23,7 @@ public class Person {
 
     public void test2(int num1, int num2, String... words) {
         // do something clever
+        System.out.println(words[2]);
     }
 
 
@@ -35,6 +36,6 @@ public class Person {
         System.out.println(p1.add(3, 5));
         String[] words = new String[] {"one", "two", "three"};
         p1.test(3, 5, words);
-        p1.test2(...words: "one", "two", "three");
+        p1.test2(3, 5, "one", "two", "three");
     }
 }
