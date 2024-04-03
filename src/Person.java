@@ -26,7 +26,6 @@ public class Person {
         System.out.println(words[2]);
     }
 
-
     public static void main(String[] args) {
         Person p1 = new Person();
         p1.sayHello();
