@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="added method">
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="added static methods">
+      <change afterPath="$PROJECT_DIR$/src/business/Places.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,8 @@
   "keyToString": {
     "Application.ArrayDemo.executor": "Run",
     "Application.Person.executor": "Run",
+    "Application.Places.executor": "Run",
+    "Application.business.Places.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -42,7 +45,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Person">
+  <component name="RunManager" selected="Application.Places">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
       <module name="Business" />
@@ -57,8 +60,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Places" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Places" />
+      <module name="Business" />
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="business.Places" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="business.Places" />
+      <module name="Business" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Places" />
+        <item itemvalue="Application.business.Places" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.ArrayDemo" />
       </list>
@@ -161,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712183253638</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added static methods">
+      <option name="closed" value="true" />
+      <created>1712183797459</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712183797459</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,7 +209,8 @@
     <MESSAGE value="added different methods" />
     <MESSAGE value="added varargs" />
     <MESSAGE value="added method" />
-    <option name="LAST_COMMIT_MESSAGE" value="added method" />
+    <MESSAGE value="added static methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="added static methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
