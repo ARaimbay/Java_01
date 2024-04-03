@@ -13,11 +13,16 @@ public class Person {
         return middleName.charAt(0);
     }
 
+    public int add(int num1, int num2) {
+        return num1 + num2;
+    }
+
     public static void main(String[] args) {
         Person p1 = new Person();
         p1.sayHello();
         p1.saySomething("My groovy message");
         p1.saySomething("Here's something else to say");
         System.out.println(p1.getMiddleInitial());
+        System.out.println(p1.add(3, 5));
     }
 }
