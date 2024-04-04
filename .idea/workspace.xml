@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="added static methods">
-      <change afterPath="$PROJECT_DIR$/src/business/Places.java" afterDir="false" />
+    <list default="true" id="e352dcd7-664f-4f30-87a9-9c0462b6362b" name="Changes" comment="added static variable">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Places">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
       <module name="Business" />
@@ -83,9 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.Places" />
         <item itemvalue="Application.business.Places" />
-        <item itemvalue="Application.Person" />
         <item itemvalue="Application.ArrayDemo" />
       </list>
     </recent_temporary>
@@ -195,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712183797459</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="created new class Places">
+      <option name="closed" value="true" />
+      <created>1712185300634</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712185300634</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added static variable">
+      <option name="closed" value="true" />
+      <created>1712262011175</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712262011175</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,7 +226,9 @@
     <MESSAGE value="added varargs" />
     <MESSAGE value="added method" />
     <MESSAGE value="added static methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="added static methods" />
+    <MESSAGE value="created new class Places" />
+    <MESSAGE value="added static variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="added static variable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

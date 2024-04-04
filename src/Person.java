@@ -3,6 +3,23 @@ public class Person {
 
     public static Person kate = null;
     public static double PI = 3.14;
+    public static int[] nums = initNums();
+
+    static {
+        nums = new int[5];
+        nums[0] = 3;
+        nums[1] = 3;
+        nums[2] = 3;
+        nums[3] = 3;
+    }
+    public static int[] initNums() {
+        nums = new int[5];
+        nums[0] = 3;
+        nums[1] = 3;
+        nums[2] = 3;
+        nums[3] = 3;
+        return nums;
+    }
 
     public void sayHello() {
         System.out.println("Hello");
