@@ -1,6 +1,9 @@
 public class Person {
     private String middleName = "Christopher";
 
+    public static Person kate = null;
+    public static double PI = 3.14;
+
     public void sayHello() {
         System.out.println("Hello");
     }
@@ -36,5 +39,6 @@ public class Person {
         String[] words = new String[] {"one", "two", "three"};
         p1.test(3, 5, words);
         p1.test2(3, 5, "one", "two", "three");
+        System.out.println(PI);
     }
 }
